@@ -21,8 +21,11 @@ header{
 .box {
     width: 100px;
     height: 100px;
-    border: 1px solid black;
+    border: 5px solid black;
     line-height: 100px;
     size: 50px;
+    text-align: center;
+}
+footer {
     text-align: center;
 }
